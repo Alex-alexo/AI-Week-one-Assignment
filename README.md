@@ -1,1 +1,2 @@
 "# AI-Week-one-Assignment" 
+# The chatbot demonstrates basic AI decision-making using predefined cryptocurrency data and rule-based logic. It analyzes factors such as price trends, market capitalization, and sustainability scores to provide recommendations. By mapping user queries to logical conditions, it simulates advisory reasoning, showing how simple algorithms can mimic intelligent financial guidance.
